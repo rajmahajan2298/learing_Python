@@ -14,3 +14,5 @@ Added
 #File handling
 #OOPS
 #__if__name
+#Inheritence
+#Exceptional Handling
