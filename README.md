@@ -18,5 +18,6 @@ Added
 #Exceptional Handling
 #Added Inheritence 
 #Added Excersies for OOPS
+#Topics Remaining(Iterator,Exception handling Finally, Geneartaors,decorators, Multiiple Inhertihence, List Comphresions)
 #Finished learning basic of python
 #Started learning Advance Python concepts
