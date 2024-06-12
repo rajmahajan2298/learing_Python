@@ -18,3 +18,5 @@ Added
 #Exceptional Handling
 #Added Inheritence 
 #Added Excersies for OOPS
+#Finished learning basic of python
+#Started learning Advance Python concepts
