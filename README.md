@@ -21,3 +21,5 @@ Added
 #Topics Remaining(Iterator,Exception handling Finally, Geneartaors,decorators, Multiiple Inhertihence, List Comphresions)
 #Finished learning basic of python
 #Started learning Advance Python concepts
+#Added Iterators 
+#Added Multiinheritehnce
